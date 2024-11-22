@@ -1,12 +1,14 @@
-# Indian Airlines Customer Reviews Analysis
+# Indian Airlines Customer Reviews Analysis ✈
 
 This dataset contains customer reviews for Indian Airlines, providing valuable insights into customer satisfaction, loyalty, and areas for improvement. The data is sourced from Skytrax website.
 
 The dataset includes key features such as review text, ratings, dates, feedback, and recommendations. These data points can be used for various purposes, including customer satisfaction analysis, sentiment analysis, topic modeling, predictive modeling, and competitive analysis. The specific features and level of detail may vary depending on the sources and methods used to collect the data.
 
-Tools used: Excel & Python
+### ⭐Tools used
 
-Data Cleaning:
+Excel & Python
+
+### ⭐Data Cleaning
 
 Used FIND() AND MID() to extract the month names from date column and used RIGHT() to extract year.
 
@@ -14,6 +16,7 @@ Used Python library textblob for sentiment analysis.
 
 Segregated the polarity values from the sentiment analysis into 3 categories: Negative(<-0.1), Neutral(<=0.1), Positive(>0.1)
 
+### ⭐Analysis
 
 1. Which airline has the highest average rating?
 
